@@ -1,3 +1,4 @@
+![image](/assets/images/emcgl_logo.jpg)
 # emcgl.github.io
 
 Welcome to the GitHub IO Page of the Genetic Laboratory of Erasmus MC.
