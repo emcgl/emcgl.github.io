@@ -12,5 +12,8 @@ trap (private) - The Transcriptomic Age Prediction Tool - [github.com/emcgl/trap
 
 Contact:
 
-mail: m [dot] verkerk [at] erasmusmc [dot] nl
-www: www.glimdna.org / https://www.erasmusmc.nl/en/research/groups/genetic-laboratory-of-internal-medicine
+e-mail: m [dot] verkerk [at] erasmusmc [dot] nl
+
+www: 
+[www.glimdna.org](www.glimdna.org)
+[www.erasmusmc.nl/en/research/groups/genetic-laboratory-of-internal-medicine](www.erasmusmc.nl/en/research/groups/genetic-laboratory-of-internal-medicine)
