@@ -4,7 +4,7 @@ Welcome to the GitHub IO Page of the Genetic Laboratory of Erasmus MC.
 
 Available repositories:
 
-trap (private) - The Transcriptomic Age Prediction Tool - github.com/emcgl/trap
+trap (private) - The Transcriptomic Age Prediction Tool - [https://github.com/emcgl/trap]
 
 
 
@@ -15,5 +15,5 @@ Contact:
 e-mail: m [dot] verkerk [at] erasmusmc [dot] nl
 
 www: 
-www.glimdna.org
-www.erasmusmc.nl/en/research/groups/genetic-laboratory-of-internal-medicine
+[http://www.glimdna.org]
+[https://www.erasmusmc.nl/en/research/groups/genetic-laboratory-of-internal-medicine]
